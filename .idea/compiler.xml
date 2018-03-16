@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="es-ontology-annotator-core" />
+        <module name="es-ontology-annotator-es2.2" />
+        <module name="ontology-annotator-core" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="es-ontology-annotator" target="1.8" />
+      <module name="es-ontology-annotator-core" target="1.8" />
+      <module name="es-ontology-annotator-es1.3" target="1.8" />
+      <module name="es-ontology-annotator-es1.4" target="1.8" />
+      <module name="es-ontology-annotator-es1.5" target="1.8" />
+      <module name="es-ontology-annotator-es2.0" target="1.8" />
+      <module name="es-ontology-annotator-es2.1" target="1.8" />
+      <module name="es-ontology-annotator-es2.2" target="1.8" />
+      <module name="ontology-annotator-core" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
