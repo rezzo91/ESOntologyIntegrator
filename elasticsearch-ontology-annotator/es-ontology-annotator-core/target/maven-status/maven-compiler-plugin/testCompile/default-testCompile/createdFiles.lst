@@ -1,0 +1,4 @@
+uk\co\flax\biosolr\elasticsearch\mapper\ontology\FieldMappingsTest.class
+uk\co\flax\biosolr\elasticsearch\mapper\ontology\OntologySettingsTest.class
+uk\co\flax\biosolr\elasticsearch\mapper\ontology\owl\OntologyHelperMethodsTest.class
+uk\co\flax\biosolr\elasticsearch\mapper\ontology\owl\OntologyHelperTest.class

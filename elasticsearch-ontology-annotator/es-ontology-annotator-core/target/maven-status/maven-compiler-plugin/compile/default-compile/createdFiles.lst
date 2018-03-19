@@ -1,0 +1,6 @@
+uk\co\flax\biosolr\elasticsearch\mapper\ontology\OntologySettings.class
+uk\co\flax\biosolr\elasticsearch\mapper\ontology\OntologySettingsBuilder.class
+uk\co\flax\biosolr\elasticsearch\mapper\ontology\owl\OntologyHelper.class
+uk\co\flax\biosolr\elasticsearch\mapper\ontology\FieldMappings.class
+uk\co\flax\biosolr\elasticsearch\mapper\ontology\owl\RestrictionVisitor.class
+uk\co\flax\biosolr\elasticsearch\mapper\ontology\ElasticOntologyHelperFactory.class
