@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"uk.co.flax.biosolr.ontology.core"},{"l":"uk.co.flax.biosolr.ontology.core.cache"},{"l":"uk.co.flax.biosolr.ontology.core.ols"},{"l":"uk.co.flax.biosolr.ontology.core.ols.graph"},{"l":"uk.co.flax.biosolr.ontology.core.ols.terms"},{"l":"uk.co.flax.biosolr.ontology.core.owl"}]
