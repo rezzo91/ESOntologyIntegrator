@@ -1,0 +1,15 @@
+uk\co\flax\biosolr\ontology\core\ols\graph\GraphTest.class
+uk\co\flax\biosolr\ontology\core\OntologyDataBuilderTest.class
+uk\co\flax\biosolr\ontology\core\ols\terms\PageTest.class
+uk\co\flax\biosolr\ontology\core\OntologyHelperBuilderTest.class
+uk\co\flax\biosolr\ontology\core\cache\TimedLRUCacheTest.class
+uk\co\flax\biosolr\ontology\core\owl\OWLOntologyHelperTest.class
+uk\co\flax\biosolr\ontology\core\ols\terms\SingleTermResultTest.class
+uk\co\flax\biosolr\ontology\core\ols\terms\OntologyTermTest.class
+uk\co\flax\biosolr\ontology\core\owl\OWLDataManagerTest.class
+uk\co\flax\biosolr\ontology\core\ols\terms\RelatedTermsResultTest.class
+uk\co\flax\biosolr\ontology\core\ols\OLSOntologyHelperTest.class
+uk\co\flax\biosolr\ontology\core\cache\LRUCacheTest.class
+uk\co\flax\biosolr\ontology\core\ols\graph\EdgeTest.class
+uk\co\flax\biosolr\ontology\core\ols\OLSHttpClientTest.class
+uk\co\flax\biosolr\ontology\core\owl\OWLOntologyHelperMethodsTest.class
